@@ -1,0 +1,8 @@
+*.jpg
+*.jpeg
+*.png
+!test*.png
+!test*.jpg
+!test*.jpeg
+.idea/
+__pycache__/
