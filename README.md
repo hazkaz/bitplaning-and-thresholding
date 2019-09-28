@@ -1,5 +1,5 @@
 # Bitplaning in Python
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/hazkaz/bitplaning-and-thresholding/blob/master/Bitplaning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hazkaz/bitplaning-and-thresholding/blob/master/Bitplaning.ipynb)
 
 [Bitplaning](https://www.wikiwand.com/en/Bit_plane) means to extract information of an image
 along only a single bit position. In case of multiple bit positions, you can choose to either binary threshold it to see more clearly
@@ -47,8 +47,8 @@ python bitplane.py test2.png --bitplane 7
 
 ##### Input Image
 
-[input-image](https://github.com/hazkaz/bitplaning-and-thresholding/blob/master/test2.jpg)
+![input-image](https://github.com/hazkaz/bitplaning-and-thresholding/blob/master/test2.png)
 
 ##### Bitplaned Output
 
-[bitplaned-output-image](https://github.com/hazkaz/bitplaning-and-thresholding/blob/master/sample.png)
+![bitplaned-output-image](https://github.com/hazkaz/bitplaning-and-thresholding/blob/master/sample.png)
