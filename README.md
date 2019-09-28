@@ -47,8 +47,8 @@ python bitplane.py test2.png --bitplane 7
 
 ##### Input Image
 
-[[https://github.com/hazkaz/bitplaning-and-thresholding/blob/master/test2.jpg|alt=input-image]]
+[input-image](https://github.com/hazkaz/bitplaning-and-thresholding/blob/master/test2.jpg)
 
 ##### Bitplaned Output
 
-[[https://github.com/hazkaz/bitplaning-and-thresholding/blob/master/sample.png|alt=bitplaned-output-image]]
+[bitplaned-output-image](https://github.com/hazkaz/bitplaning-and-thresholding/blob/master/sample.png)
