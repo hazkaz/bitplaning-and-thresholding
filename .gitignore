@@ -4,5 +4,7 @@
 !test*.png
 !test*.jpg
 !test*.jpeg
+!sample.png
 .idea/
 __pycache__/
+venv/
